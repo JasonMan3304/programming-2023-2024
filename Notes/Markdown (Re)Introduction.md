@@ -11,7 +11,7 @@ this is a level 3 subheading
 
 this is 6
 
-# Motifing 
+# Notifying  
 we can use asterisks (*) to modify text style, specifically bold and italics 
 I want this **word** to be bold
 I want this **word** to be italicized

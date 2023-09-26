@@ -22,6 +22,9 @@ We use the # symbol to make comments
 # [[Headers]]
 
 
-# Inpit
+# Input
 We grab information from the user using input()
 It will wait for the user to type something in and press Ent
+
+
+# Str
